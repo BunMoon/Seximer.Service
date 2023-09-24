@@ -1,0 +1,14 @@
+# virtualenv
+/.venv
+
+# ide config
+/.vscode
+
+# python cache
+__pycache__/
+
+# database
+*.sqlite3
+
+# environment
+.env
